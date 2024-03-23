@@ -28,13 +28,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="50" alt="azure logo"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/chamilqs/chamilqs/output/snake.svg" alt="Snake animation" />
-
-###
 <!--
 **chamilqs/chamilqs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
