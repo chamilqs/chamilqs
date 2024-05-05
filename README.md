@@ -1,8 +1,8 @@
-<h2 align="left">Hi👋! My name is Samil and I'm a Backend oriented developer.</h2>
+<h2 align="left">Yup, another backend developer.</h2>
 
 ###
 
-<p align="left">- ✨ Creating bugs since 2022<br>- 📚 I'm currently learning portuguese, C# with .NET framework and Docker. 🐳<br>- 🎯 Goals: live in a cold place ❄ and travel a lot. 🚀<br>- 🎲 And I play Valorant 🎮 +♟ Chess online.</p>
+<p align="left">- ✨ Creating bugs since 2021<br>- 📚 I'm currently learning portuguese, C# with .NET framework and Docker. 🐳<br>- 🎯 Goals: live in a cold place ❄ and travel a lot. 🚀<br>- 🎲 And I play Valorant 🎮 +♟ Chess online.</p>
 
 ###
 
