@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- ✨ Creating bugs since 2021<br>- 📚 I'm currently learning portuguese, C# with .NET framework and Docker. 🐳<br>- 🎯 Goals: live in a cold place ❄ and travel a lot. 🚀<br>- 🎲 And I play Valorant 🎮 +♟ Chess online.</p>
+<p align="left">- ✨ Creating bugs since 2021<br>- 📚 I'm currently learning portuguese, C# with .NET framework and Docker. 🐳<br>- 🎲 And I play Valorant 🎮 +♟ Chess online.</p>
 
 ###
 
