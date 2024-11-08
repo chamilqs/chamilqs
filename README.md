@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- ✨ Creating bugs since 2021<br>- <br>- 🎲 And I play Valorant 🎮 +♟ Chess online.</p>
+<p align="left">- ✨ Creating bugs since 2021<br>- 🎲 And I play Valorant 🎮 +♟ Chess online.</p>
 
 ###
 
